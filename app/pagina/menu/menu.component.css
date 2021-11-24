@@ -1,0 +1,27 @@
+ul{
+    color: black;
+}
+li{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    align-items: center; 
+    object-position: center;
+}
+
+.navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+    text-align: center;
+}
+
+#navbarSupportedContent {
+    text-align: center;
+}
+
+.navbar-nav {
+    padding-left: 20%;
+}

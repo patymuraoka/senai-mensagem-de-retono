@@ -1,0 +1,12 @@
+div {
+    background-color: black;
+    margin: auto;   
+    margin-left: 0;
+    max-width: 100%;
+}
+
+#login {
+    width: 20%;
+    height: 20%;
+    background-color: black;
+}
